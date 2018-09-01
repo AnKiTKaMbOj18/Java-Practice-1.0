@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="754de554-f7ea-46c7-bb6c-6c546154a47a" name="Default Changelist" comment="" />
+    <list default="true" id="754de554-f7ea-46c7-bb6c-6c546154a47a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterview/CharOccuranceCountInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterview/CommonAmongTwoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterview/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterview/ListDeleteDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterview/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterview/NumverBinaryOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterview/StrReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,24 +61,38 @@
     <session id="-1262036512">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2234" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2234" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Java-Practice-1.0" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/SecondMaxInArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-69">
-              <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,6 +105,9 @@
     <findStrings>
       <find>public class Test \{\n    public static void main\(String\[\] args\) \{\n\n        \{                   \}\n    \}\n\}\n</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -104,6 +131,13 @@
         <option value="$PROJECT_DIR$/src/main/java/JavaInterview/MaximumOfArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterview/SecondMaxInArray.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterview/Matrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterview/CharOccuranceCountInString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterview/LargestNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterview/ListDeleteDuplicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterview/NumverBinaryOrNot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterview/CommonAmongTwoArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterview/StrReverse.java" />
       </list>
     </option>
   </component>
@@ -124,6 +158,7 @@
     <option name="width" value="1336" />
     <option name="height" value="745" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -172,7 +207,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535699804450" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535710792489" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -187,9 +222,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SecondMaxInArray">
-    <configuration name="AnagramString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaInterview.AnagramString" />
+  <component name="RunManager" selected="Application.StrReverse">
+    <configuration name="CommonAmongTwoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterview.CommonAmongTwoArray" />
       <module name="Java-Practice-1.0" />
       <extension name="coverage">
         <pattern>
@@ -201,8 +236,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaInterview.ArmstrongNumber" />
+    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterview.LargestNumber" />
       <module name="Java-Practice-1.0" />
       <extension name="coverage">
         <pattern>
@@ -214,8 +249,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateInArrray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaInterview.DuplicateInArrray" />
+    <configuration name="ListDeleteDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterview.ListDeleteDuplicate" />
       <module name="Java-Practice-1.0" />
       <extension name="coverage">
         <pattern>
@@ -227,8 +262,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaInterview.MaximumOfArray" />
+    <configuration name="NumverBinaryOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterview.NumverBinaryOrNot" />
       <module name="Java-Practice-1.0" />
       <extension name="coverage">
         <pattern>
@@ -240,8 +275,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondMaxInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaInterview.SecondMaxInArray" />
+    <configuration name="StrReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterview.StrReverse" />
       <module name="Java-Practice-1.0" />
       <extension name="coverage">
         <pattern>
@@ -301,19 +336,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AnagramString" />
-      <item itemvalue="Application.ArmstrongNumber" />
-      <item itemvalue="Application.DuplicateInArrray" />
-      <item itemvalue="Application.MaximumOfArray" />
-      <item itemvalue="Application.SecondMaxInArray" />
+      <item itemvalue="Application.LargestNumber" />
+      <item itemvalue="Application.ListDeleteDuplicate" />
+      <item itemvalue="Application.NumverBinaryOrNot" />
+      <item itemvalue="Application.CommonAmongTwoArray" />
+      <item itemvalue="Application.StrReverse" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SecondMaxInArray" />
-        <item itemvalue="Application.MaximumOfArray" />
-        <item itemvalue="Application.DuplicateInArrray" />
-        <item itemvalue="Application.ArmstrongNumber" />
-        <item itemvalue="Application.AnagramString" />
+        <item itemvalue="Application.StrReverse" />
+        <item itemvalue="Application.CommonAmongTwoArray" />
+        <item itemvalue="Application.NumverBinaryOrNot" />
+        <item itemvalue="Application.ListDeleteDuplicate" />
+        <item itemvalue="Application.LargestNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -332,25 +367,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="23" width="1336" height="745" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25965998" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4977169" visible="true" weight="0.25965998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.5022831" side_tool="true" weight="0.25965998" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32924962" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32924962" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32924962" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32924962" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -423,24 +457,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/StrRev.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="561" column="6" lean-forward="true" selection-start-line="561" selection-start-column="6" selection-end-line="561" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/DuplicateCharacterInString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -493,10 +513,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/SecondMaxInArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
-          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        <state relative-caret-position="186">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/DuplicateCharacterInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/ListDeleteDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="23" column="48" lean-forward="true" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/LargestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/CharOccuranceCountInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/CommonAmongTwoArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/NumverBinaryOrNot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/StrReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/StrRev.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="56" lean-forward="true" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
         </state>
       </provider>
     </entry>
