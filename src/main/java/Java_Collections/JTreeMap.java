@@ -21,7 +21,7 @@ public class JTreeMap {
         map.put(102,"bindra");
         map.put(103,"mandeep");
         map.put(101,"rahul");
-        
+
         System.out.println(map);
         map.remove(102);
         System.out.println(map);

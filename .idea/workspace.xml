@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="754de554-f7ea-46c7-bb6c-6c546154a47a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Collections/JArraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Collections/JCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Collections/JDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Collections/JHashmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Collections/JHashset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Collections/JLinkedhashmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Collections/JLinkedhashset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Collections/JLinkedlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Collections/JTreeset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterview/InterThreadCommunication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaInterview/ListDeleteDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaInterview/ListDeleteDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaInterview/Rough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaInterview/Rough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaInterview/ListDeleteDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaInterview/ListDeleteDuplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaInterview/Rough.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaInterview/Rough.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaInterview/StrReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaInterview/StrReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Collections/JTreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Collections/JTreeMap.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -75,23 +63,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="33" />
+          <entry key="java" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="33" />
+          <entry key="JAVA" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="java" value="6193" />
+          <entry key="java" value="6790" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6193" />
+          <entry key="JAVA" value="6790" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -102,29 +90,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Java_Collections/JHashmap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="39" column="32" lean-forward="true" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Java_Collections/JLinkedhashmap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Java_Collections/JTreeMap.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/InterThreadCommunication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            <state relative-caret-position="241">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -192,6 +166,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Java_Collections/JHashmap.java" />
         <option value="$PROJECT_DIR$/src/main/java/Java_Collections/JLinkedhashmap.java" />
         <option value="$PROJECT_DIR$/src/main/java/Java_Collections/JTreeMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterview/InterThreadCommunication.java" />
       </list>
     </option>
   </component>
@@ -249,7 +224,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Java_Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaInterview" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -261,7 +236,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536067039609" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536078477902" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -281,7 +256,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JTreeMap">
+  <component name="RunManager" selected="Application.InterThreadCommunication">
+    <configuration name="InterThreadCommunication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterview.InterThreadCommunication" />
+      <module name="Java-Practice-1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaInterview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Collections.JDeque" />
       <module name="Java-Practice-1.0" />
@@ -321,19 +309,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Collections.JQueue" />
-      <module name="Java-Practice-1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="JTreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Collections.JTreeMap" />
       <module name="Java-Practice-1.0" />
@@ -348,19 +323,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JQueue" />
       <item itemvalue="Application.JDeque" />
       <item itemvalue="Application.JHashmap" />
       <item itemvalue="Application.JLinkedhashmap" />
       <item itemvalue="Application.JTreeMap" />
+      <item itemvalue="Application.InterThreadCommunication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterThreadCommunication" />
         <item itemvalue="Application.JTreeMap" />
         <item itemvalue="Application.JLinkedhashmap" />
         <item itemvalue="Application.JHashmap" />
         <item itemvalue="Application.JDeque" />
-        <item itemvalue="Application.JQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -752,6 +727,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java_Collections/JTreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Java_Collections/JLinkedhashmap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
@@ -766,10 +748,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Java_Collections/JTreeMap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/InterThreadCommunication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state relative-caret-position="241">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
