@@ -29,12 +29,22 @@ public class JHashmap {
         //It may have one null key and multiple null values.
         //It maintains no order.
 
+        HashMap<String,String> m=new HashMap<>();
+
+        m.put("s","s");
+        m.put("a","a");
+
+        System.out.println(m.keySet().hashCode());
+        System.out.println(m.values().hashCode());
+
         HashMap<Integer,String> map=new HashMap<>();
+
         map.put(104,"arun");
         map.put(102,"bindra");
         map.put(103,"mandeep");
         map.put(101,"rahul");
         map.put(null,null);
+
         System.out.println(map);
         map.remove(102);
         System.out.println(map);
