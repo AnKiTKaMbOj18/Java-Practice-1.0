@@ -9,8 +9,11 @@ package Data_Structure;
 
 public class BinarySearchTree {
 
+
+
     public static void main(String[] args) {
 
+        int counter,number,first,last,mid,arr[];
 
     }
 }
